@@ -1,0 +1,21 @@
+{
+  "name": "angular-tinymce",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.2.13",
+    "@angular/core": "^8.2.13"
+  },
+  "main": "bundles/angular-tinymce.umd.js",
+  "module": "fesm5/angular-tinymce.js",
+  "es2015": "fesm2015/angular-tinymce.js",
+  "esm5": "esm5/angular-tinymce.js",
+  "esm2015": "esm2015/angular-tinymce.js",
+  "fesm5": "fesm5/angular-tinymce.js",
+  "fesm2015": "fesm2015/angular-tinymce.js",
+  "typings": "angular-tinymce.d.ts",
+  "metadata": "angular-tinymce.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
